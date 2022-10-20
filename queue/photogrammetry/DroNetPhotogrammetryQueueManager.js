@@ -35,7 +35,7 @@ class DroNetPhotogrammetryQueueManager {
                 project_id: data.project_id,
                 task_name: data.task_name,
                 raster_folder: data.raster_folder,
-                gcpmarker_file: data.gcpmarkerfile,
+                gcpmarker_file: data.gcpmarker_file,
                 initialProcess: data.initialProcess,
                 dronexttoken: data.dronexttoken,
                 task_id: task_id,
